@@ -1,8 +1,8 @@
-$colorText: #CF458B;
-$colorShadow: #fefefe;
+$colorText: lime;
+$colorShadow: #66ffcc;
 
 body{
-  background:#CF458B;
+  background: $colorText;
 }
 
 @function textShadowString($offset, $color) {

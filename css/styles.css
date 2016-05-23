@@ -1,0 +1,13 @@
+body {
+  background: lime; }
+
+h1 {
+  text-align: center;
+  color: lime;
+  text-transform: uppercase;
+  font-family: 'Helvetica Neue';
+  font-weight: 100;
+  font-size: 10em;
+  letter-spacing: .075em;
+  text-shadow: -1px 0px 0px #66ffcc, -2px 1px 0px #66ffcc, -3px 2px 0px #66ffcc, -4px 3px 0px #66ffcc, -5px 4px 0px #66ffcc, -6px 5px 0px #66ffcc, -7px 6px 0px #66ffcc, -8px 7px 0px #66ffcc, -9px 8px 0px #66ffcc, -10px 9px 0px #66ffcc, -11px 10px 0px #66ffcc, -12px 11px 0px #66ffcc, -13px 12px 0px #66ffcc, -14px 13px 0px #66ffcc, -15px 14px 0px #66ffcc, -16px 15px 0px #66ffcc, -17px 16px 0px #66ffcc, -18px 17px 0px #66ffcc, -19px 18px 0px #66ffcc, -20px 19px 0px #66ffcc, -21px 20px 0px #66ffcc, -22px 21px 0px #66ffcc, -23px 22px 0px #66ffcc, -24px 23px 0px #66ffcc, -25px 24px 0px #66ffcc, -26px 25px 0px #66ffcc, -27px 26px 0px #66ffcc, -28px 27px 0px #66ffcc, -29px 28px 0px #66ffcc, -30px 29px 0px #66ffcc, -31px 30px 0px #66ffcc, -32px 31px 0px #66ffcc, -33px 32px 0px #66ffcc, -34px 33px 0px #66ffcc, -35px 34px 0px #66ffcc, -36px 35px 0px #66ffcc, -37px 36px 0px #66ffcc, -38px 37px 0px #66ffcc, -39px 38px 0px #66ffcc, -40px 39px 0px #66ffcc, -41px 40px 0px #66ffcc;
+  transform: skew(8deg); }
